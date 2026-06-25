@@ -14,7 +14,8 @@
 - 💼 Projects: Milk Dairy System · Cold Storage System · Amazon Clone
 - 🎓 BCA Graduate — **SGPA 8.74** | Dr. Ganpatrao Deshmukh Mahavidyalaya
 - 🌐 Portfolio: [umeshpandhare.netlify.app](https://umeshpandhare.netlify.app)
-- 📫 Email: **upandhare9@gmail.com**
+- 📫 MainEmail: **umeshpandhare157@gmail.com**
+- 📫 SubEmail: **upandhare9@gmail.com**
 
 ---
 
